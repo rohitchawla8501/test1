@@ -1,3 +1,4 @@
+```bash
 .
 ├── HELP.md
 ├── README.md
@@ -35,8 +36,10 @@
     └── test
         └── java
             └── com
+            
                 └── charter
                     └── client
                         └── rewards
                             └── ApplicationTests.java
 
+```
